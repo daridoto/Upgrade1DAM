@@ -1,0 +1,5 @@
+Diferencias entre commit push y pull:
+- Gracias al Commit podemos guardar cambios localmente, es como hacer una "instantánea" de lo hecho hasta el momento que se registran en el repositorio local
+(Estoy creando esto desde el Vs Code en un archivo .txt, guardaré aquí en VSCode iré e iré al Github y haré un commit)
+- El pull no guarda si no que descarga los últimos cambios guardados desde un repositorio de Github hasta el repositorio local
+- Por ultimo el push sube los commits desde el repositorio local al repositorio remoto
